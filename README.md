@@ -4,9 +4,6 @@
 
 <p align="center">Software Engineering and Systems Analysis student | 19 | Brasília, Brazil | Focused on backend, clean code, and tools like Python, Java, Git, and Docker.</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/dev-isaacportela/dev-isaacportela/output/snake.svg" alt="Snake animation" />
 
 ###
 
