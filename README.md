@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Isaac Portela!</h1>
+<h1 align="center">Isaac Portela</h1>
 
 ###
 
